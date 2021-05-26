@@ -1,0 +1,183 @@
+*{
+    margin: 0px;
+    
+
+}
+.split{
+    height: 145%;
+    width: 45%;
+    margin: 80px;
+    position: absolute;
+    background-color: #F0F8FF;
+    z-index: 1;
+    padding: 20px;
+    z-index: 1;
+    
+}
+.left{
+    left: 0%;
+    background-color: #F0F8FF;
+   
+}
+
+.right{
+    right:0%;
+    background-color: #F0F8FF;
+    margin-right: 50px;
+}
+.fif{
+    width: 85%;
+    background-color: #46C7C7;
+    text-align: center;
+    margin-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 15px;
+    padding: 7px;
+    color: white;
+
+}
+.head1{
+    color: #46C7C7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+.head2 {
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+.sub{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    width: 60%;
+    padding-top: 15px;    
+}
+
+hr{
+    width: 0;
+    height: 98%;
+    left: -2%;
+    position: absolute;
+    border: 1px dashed blue;
+  
+}
+.fif1 {
+    
+    background-color: #46C7C7;
+    text-align: center;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 15px;
+    padding: 7px;
+    color: white;
+
+}
+.heading{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 23px;
+    padding-top: 20px;
+    text-transform: uppercase;
+    color: #045d78;
+}
+.table{
+    padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: #46C7C7;
+    
+}
+.table1{
+    padding-top: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: orange;
+}
+
+.breadimg
+{
+    width: 140px;
+}
+.para{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: #46C7C7;
+    padding-top: -50px;}
+
+    
+.iceimg{
+    width: 180px;
+    }
+    
+    .friesimg{
+        width: 162px;
+      
+        }
+.fify{
+    width: 85%;
+    background-color: #46C7C7;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 15px;
+    padding: 7px;
+    color: white;}
+
+.nea{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding-top: 20px;
+    text-transform: uppercase;
+    color: #045d78;
+    text-align: right;}
+
+.table11{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: orange;
+    text-align: right;}
+
+.paraa{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: #46C7C7;
+    text-transform: uppercase;
+    text-align: right;}
+
+.fourimg{
+    width: 100px;}
+
+.h7img{
+    width: 105px;
+}
+
+
+.orange{
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;  
+}
+.per{
+    color: #045d78;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    
+}
+
+.blues{
+    color: #045d78;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.numbers{
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+    
+   
+}
